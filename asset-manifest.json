@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fibe-app/static/css/main.ffef5a35.css",
+    "main.js": "/Fibe-app/static/js/main.2c77cdcf.js",
+    "static/js/453.0c42b4e8.chunk.js": "/Fibe-app/static/js/453.0c42b4e8.chunk.js",
+    "index.html": "/Fibe-app/index.html",
+    "main.ffef5a35.css.map": "/Fibe-app/static/css/main.ffef5a35.css.map",
+    "main.2c77cdcf.js.map": "/Fibe-app/static/js/main.2c77cdcf.js.map",
+    "453.0c42b4e8.chunk.js.map": "/Fibe-app/static/js/453.0c42b4e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffef5a35.css",
+    "static/js/main.2c77cdcf.js"
+  ]
+}
